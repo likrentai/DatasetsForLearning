@@ -1,0 +1,12 @@
+  Seoul:
+  Milan:
+  Amsterdam:
+  Cairo:
+  London:
+  Singapore:
+  Casablanca:
+  Miami:
+  Sydney:
+  Tokyo:
+  Barcelona:
+  Lisbon:
